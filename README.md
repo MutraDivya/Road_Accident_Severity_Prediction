@@ -27,7 +27,6 @@ Road Accident Severity Prediction is a machine learning project that predicts th
 
 ## 📂 Project Structure
 
-```text
 Road_Accident_Severity_Prediction/
 │
 ├── app.py
@@ -36,3 +35,36 @@ Road_Accident_Severity_Prediction/
 ├── model.joblib
 ├── requirements.txt
 └── README.md
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository.
+2. Open the project folder in PowerShell or a terminal.
+3. Install the dependencies:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+4. Start the app:
+
+```bash
+python -m streamlit run app.py
+```
+
+---
+
+## 📈 Future Improvements
+
+- Add more accident data for training
+- Improve model performance
+- Add visualizations and prediction insights
+- Deploy the app online
+
+---
+
+## 👩‍💻 Author
+
+Divya Mutra
